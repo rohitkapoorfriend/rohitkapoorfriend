@@ -101,17 +101,19 @@ I'm a **Senior Backend Engineer** from India with **11+ years** of hands-on expe
 
 ---
 
-#### [💬 Real-Time Chat API](https://github.com/rohitkapoorfriend/realtime-chat-api) *(Coming Soon)*
+#### [💬 Real-Time Chat API](https://github.com/rohitkapoorfriend/realtime-chat-api)
 > Scalable WebSocket-based chat backend with rooms, typing indicators, message persistence, and online presence tracking.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-#### [💳 Stripe Subscription API](https://github.com/rohitkapoorfriend/stripe-subscription-api) *(Coming Soon)*
-> Complete subscription management backend — plans, trials, upgrades, downgrades, invoices, and webhook handling.
+#### [🧠 DocuBot AI — Document Agent](https://github.com/rohitkapoorfriend/docubot-ai)
+> Upload PDF/DOCX/TXT, ask questions — AI answers using RAG with source citations, conversation memory, and real-time streaming. The #1 trending AI pattern of 2026.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/RAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+**Features:** RAG pipeline • Vector embeddings • Smart document chunking • Streaming responses • Source citations • Conversation memory • Beautiful web UI • Mock mode for demos
 
 ---
 
