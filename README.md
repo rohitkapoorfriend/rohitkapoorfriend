@@ -12,7 +12,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kapoor-5945a987/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitkapoorfriendfriend@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitkapoorfriend@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkapoorfriend)
 
 </div>
@@ -92,21 +92,26 @@ I'm a **Senior Backend Engineer** from India with **11+ years** of hands-on expe
 
 ### 📌 Featured Projects
 
-<a href="https://github.com/rohitkapoorfriend/ai-feedback-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkapoorfriend&repo=ai-feedback-api&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/rohitkapoorfriend/realtime-chat-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkapoorfriend&repo=realtime-chat-api&theme=tokyonight&hide_border=true" />
-</a>
+#### [🤖 AI Feedback Analyzer API](https://github.com/rohitkapoorfriend/ai-feedback-api)
+> Production-ready REST API that analyzes customer feedback using OpenAI GPT-4o — extracts summaries, keywords, sentiment & themes automatically.
 
-<br/><br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-<a href="https://github.com/rohitkapoorfriend/stripe-subscription-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkapoorfriend&repo=stripe-subscription-api&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/rohitkapoorfriend/serverless-image-processor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkapoorfriend&repo=serverless-image-processor&theme=tokyonight&hide_border=true" />
-</a>
+**Features:** AI-powered sentiment analysis • Batch processing (50 feedbacks/request) • JWT auth • Rate limiting • Analytics dashboard API • Docker ready • Mock mode for testing
+
+---
+
+#### [💬 Real-Time Chat API](https://github.com/rohitkapoorfriend/realtime-chat-api) *(Coming Soon)*
+> Scalable WebSocket-based chat backend with rooms, typing indicators, message persistence, and online presence tracking.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+#### [💳 Stripe Subscription API](https://github.com/rohitkapoorfriend/stripe-subscription-api) *(Coming Soon)*
+> Complete subscription management backend — plans, trials, upgrades, downgrades, invoices, and webhook handling.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
@@ -131,7 +136,7 @@ I'm actively looking for **remote contract or part-time roles** with US/EU compa
 - ✅ Handle **payment integrations** (Stripe, subscriptions, invoicing)
 - ✅ Work **independently** with minimal supervision
 
-**→ Let's talk:** [rohitkapoorfriendfriend@gmail.com](mailto:rohitkapoorfriendfriend@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohit-kapoor-5945a987/)
+**→ Let's talk:** [rohitkapoorfriend@gmail.com](mailto:rohitkapoorfriend@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohit-kapoor-5945a987/)
 
 <div align="center">
 
