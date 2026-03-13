@@ -157,12 +157,14 @@ I'm a **Senior Backend & AI Engineer** from India with **12+ years** of hands-on
 
 #### [🤖 AI Feedback Analyzer API](https://github.com/rohitkapoorfriend/ai-feedback-api)
 
-> Production-ready REST API that analyzes customer feedback using OpenAI GPT-4o — extracts summaries, keywords, sentiment & themes. Batch processing (50/request), JWT auth, rate limiting, analytics dashboard endpoint. Docker ready.
+> Production-ready REST API that analyzes customer feedback using OpenAI GPT-4o — extracts summaries, keywords, sentiment & themes. Batch processing (50/request), JWT auth, rate limiting, analytics dashboard, CSV export, and webhook delivery. Docker ready.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Features:** GPT-4o sentiment + keyword + theme analysis • Aspect-level sentiment breakdown • Batch processing (up to 50/request) • CSV export with filters • Webhook delivery to Slack/Zapier • Analytics aggregation API • Mock mode (no API key needed) • Rate limiting + JWT auth
 
 ---
 
